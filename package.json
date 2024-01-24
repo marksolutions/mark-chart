@@ -28,6 +28,7 @@
     "access": "public"
   },
   "dependencies": {
+    "chart.js": "^4.4.1",
     "lit": "^3.1.0"
   },
   "devDependencies": {
